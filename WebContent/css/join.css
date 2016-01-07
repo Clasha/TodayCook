@@ -1,0 +1,21 @@
+body {
+background-color: #EAEAEA;
+padding-top: 30px;
+}
+body>div{
+width: 40%;
+border: 1px solid red;
+}
+hr {
+border: 1px solid red;
+}
+.fa{
+	margin-top: 10px;
+}
+.btn {
+	width: 100%;
+	height: 50px;
+}
+footer {
+	padding-top: 20px;
+}

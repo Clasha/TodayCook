@@ -1,0 +1,130 @@
+@CHARSET "EUC-KR";
+
+#body, #head {
+    padding: 5px;
+    text-align: center;
+
+}
+#head{
+	padding-top:20px;
+	height:40px;
+	background-color:white;
+	    border: solid 1px #c0c0c0;
+}
+#body{
+	background-color: white;
+    padding: 50px;
+    display: none;
+}
+
+#body1, #head1 {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c0c0c0;
+}
+#head1{
+	padding-top:20px;
+	height:40px;
+	background-color:white;
+}
+#body1{
+	background-color: white;
+    padding: 50px;
+    display: none;
+}
+
+#body2, #head2 {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c0c0c0;
+}
+#head2{
+	padding-top:20px;
+	height:40px;
+	background-color:white;
+}
+#body2{
+	background-color: white;
+    padding: 50px;
+    display: none;
+}
+
+#body3, #head3 {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c0c0c0;
+}
+#head3{
+	padding-top:20px;
+	height:40px;
+	background-color:white;
+}
+#body3{
+	background-color: white;
+    padding: 50px;
+    display: none;
+}
+
+#body4, #head4{
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c0c0c0;
+}
+#head4{
+	padding-top:20px;
+	height:40px;
+	background-color:white;
+}
+#body4{
+	background-color: white;
+    padding: 50px;
+    display: none;
+}
+
+#body5, #head5 {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c0c0c0;
+}
+#head5{
+	padding-top:20px;
+	height:40px;
+	background-color:white;
+}
+#body5{
+	background-color: white;
+    padding: 50px;
+    display: none;
+}
+
+#body6, #head6 {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c0c0c0;
+}
+#head6{
+	padding-top:20px;
+	height:40px;
+	background-color:white;
+}
+#body6{
+	background-color: white;
+    padding: 50px;
+    display: none;
+}
+
+#body7, #head7 {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c0c0c0;
+}
+#head7{
+	padding-top:20px;
+	height:40px;
+	background-color:white;
+}
+#body7{
+	background-color: white;
+    padding: 50px;
+    display: none;
+}

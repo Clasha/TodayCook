@@ -1,0 +1,25 @@
+#videobcg { 
+     position: absolute; /* 절대 위치 지정 */
+     top: 0px; 
+     left: 0px;
+     min-width: 100%; 
+     /* max-width, max-height가  요소의 최대 너비와 높이를 지정한다면
+		min-width, min-height 속성은 요소의 최소 너비와 높이를 지정합니다
+		이 속성 역시 주요 브라우저에서 모두 지원하며, ie6 이전은 지원하지 않습니다. 
+		예를 들어,이미지에 min-width: 100px으로 설정하면 이미지 너비가 100px 이하로 작아지지 않습니다.*/
+     min-height: 100%;
+     width: auto;
+     height: auto;
+     z-index: -1000;
+     /* 해당 아이디에 속하는 이미지들은 가장 뒤쪽에 무조건적으로 가장 뒤쪽에 속하게 된다 */
+     overflow: hidden;
+}
+.modal{
+	margin-right: auto;
+	margin-left: auto;
+	/* auto로 함으로써 중앙에 위치하게 한다. */
+}
+.toppp{
+	height: 5px;
+	background-color: #B5B2FF;
+}

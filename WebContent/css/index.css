@@ -1,0 +1,104 @@
+.container {
+	width: 40%; 
+	margin-right: auto;
+	margin-left: auto;
+}
+.logincc {
+	/* background-color: #9FC93C; */
+	width: 90%;
+	text-align: right;
+	padding-top: 0px;
+	padding-bottom: 5px;
+}
+.btn {
+	border: 0;
+};
+.toppp {
+	height: 15px;
+	background-color: #B5B2FF;
+}
+header {
+	height: 250px;
+}
+
+.topheader {
+	background: url(../img/bg_wave.png) left bottom repeat-x;
+    width: 100%;
+    text-align: center;
+    height: 85px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.body {
+	background-color: #EAEAEA;
+}
+.root{
+	background-color: white;
+	width: 95%;
+	margin: auto;
+	overflow: hidden;
+	display: block;
+	/* padding: auto; */
+	background-color: #EAEAEA;
+} 
+.main_left {
+	margin-left: auto;
+	width: 15%;
+	margin-right: 10px;
+	height:700px;
+	text-align: center;
+	/* background-color: #B5B2FF; */
+	background-color: white;
+	float: left;
+}
+.main_right {
+	width: 18.3%;
+	height:700px;
+	text-align: center;
+	//background-color: #F2CB61;
+	float: left;
+	margin-right: auto;
+}
+.main_con {
+	width: 65%;
+	height:700px;
+	margin-right: 10px;
+	float: left;
+	//background-color: #0054FF;
+}
+hr.line {
+	//border: 1px solid #FFA7A7;
+}
+.footer {
+	margin-top: 5px;
+	background-color: #ffffff;
+}
+#customerSend {
+	width: 300px;
+    height: 150px;
+    font-size: 13px;
+    background: #f5f5f5;
+    border: 1px solid #e6e7e8;
+    resize: none;
+}
+#send {
+	border: 1px solid #dcdcdc;
+    background: #fff;
+    border-radius: 0;
+    color: #444;
+    width: 300px;
+    margin: 8px 0 0 -1px;
+}
+#customerEmail {
+	width: 300px;
+	font-size: 13px;
+	background: #f5f5f5;
+	border: 1px solid #e6e7e8;
+}
+#customerbtn {
+	margin: 3px;
+}
+a {
+	text-decoration: none;
+}

@@ -1,0 +1,64 @@
+#wrap {
+	width: 971px; 
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+h1 {
+	color: green;
+	margin-left: auto ; 
+	margin-right: auto;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 12px; 
+	line-height: 24px; 
+}
+
+table td,th {
+	border: #d3d3d3 solid 1px;
+	padding: 5px;
+	font-size: 12pt;
+}
+
+th {
+	background: yellowgreen;
+	width: 200px;
+    
+}
+
+img {
+	width: 220px; 
+	height: 300px; 
+}
+
+a {
+	text-decoration: none; 
+	color: black; 
+}
+
+a:HOVER {
+	text-decoration: underline; 
+	color: green; 
+}
+
+#reply{
+	width: 971px; 
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#reply textarea {
+	margin-left: 11px;
+}
+#replyView{
+	width: 971px; 
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+}

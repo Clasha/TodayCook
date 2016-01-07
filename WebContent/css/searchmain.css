@@ -1,0 +1,35 @@
+.affix {
+   top: 80px;
+}
+.divcontainer {
+	margin-top:100px;
+}
+.text-right {
+	width:95%;
+}
+.container-fluid {
+	clear: both;
+}
+.col-sm-8 {
+	padding: 10px;	
+}
+.ih-item square effect13 top_to_bottom {
+	width:245px;
+	height:245px;
+}
+.recipeimg {
+	width:245px;height:245px; z-index:3;
+}
+.bestimg {
+	position: relative; left:160px; top:-240px; width:72px; height:75px; z-index:2;
+}
+.newimg {
+	position: relative; left:10px; top:-150px; width:50px; height:50px; z-index:1;
+}
+.back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 10px;
+    padding: 1em;
+    display: none;
+}

@@ -1,0 +1,115 @@
+/*
+Tutorial Name: Sliding Navigation Menu
+Description: Sliding Navigation using CSS3 and Jquery
+Author: Samuel Dalusung
+*/
+
+
+/*= MAIN STYLING
+--------------------------------------------------------*/
+ body {
+    width: 100%;
+    background: #fff;
+}
+#toggle {
+    width: 180px;
+    list-style: none;
+    /* margin: 170px auto; */
+    padding-left: 0px;
+    text-align: left;
+}
+#toggle div:hover {
+    /* background: #f3b784; */
+    background: #ffffff;
+}
+#toggle div.active {
+    /* background: #f3b784; */
+    background: #ffffff;
+}
+#toggle div {
+    /* background-color: #f58220; */
+    background-color: #ffffff;
+    cursor: pointer;
+    display: block;
+    margin: 1px;
+    border: 1px solid black;
+}
+#toggle h3 {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma;
+    /* color: #fff; */
+    color: black;
+    line-height: 41px;
+    font-weight: normal;
+    /* text-shadow: 1px 1px 0px #adadad;
+    filter: dropshadow(color=#adadad, offx=1, offy=1); */
+}
+.clear {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+
+
+
+/*= ICONS
+--------------------------------------------------------*/
+ span.menu-icons {
+    font-size: 13px;
+    height: 20px;
+    width: 22px;
+    float: left;
+    margin: 6px 12px 10px 12px;
+   /*  color: #fff; */
+    color: black;
+}
+span.the-btn {
+    float: right;
+    font-size: 10px;
+    height: 30px;
+    width: 43px;
+    margin-top: -34px;
+	margin-right: -10px;
+    padding:0;
+    /* color: #fff; */
+    color: black;
+}
+
+
+
+/*= UNORDERED LIST STYLES
+--------------------------------------------------------*/
+ #toggle ul {
+    list-style: none;
+    display: none;
+    /* background-color:#f3b784; */
+    background-color: white;
+   /*  color: fff; */
+    color: black;
+}
+#toggle ul li {
+    line-height: 20px;
+    /* color: #fff; */
+    color: black;
+    list-style: circle;
+    width: 240px;
+    padding: 0;
+    margin: 0;
+}
+#toggle a {
+    text-decoration: none;
+    /* color: #fff; */
+    color: black;
+    font-family: Tahoma;
+    font-size: 14px;
+    /* text-shadow: 1px 1px 0px #adadad;
+    filter: dropshadow(color=#adadad, offx=1, offy=1); */
+}
+#toggle a:hover {
+    /* color: #f58220; */
+    color: #c0c0c0;
+}
